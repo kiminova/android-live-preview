@@ -1,8 +1,8 @@
-# Android live preview
+# Claude Android preview
 
 **See every change your coding agent makes, on a light emulator, a dark one and your own Android phone, without asking.**
 
-A skill for [Claude Code](https://claude.com/claude-code), and the Android sibling of [ios-live-preview](https://github.com/kiminova/ios-live-preview). Install it, and in any Android project your agent keeps three devices on the latest build of your working tree:
+A skill for [Claude Code](https://claude.com/claude-code), and the Android sibling of [Claude iOS preview](https://github.com/kiminova/ios-live-preview). Install it, and in any Android project your agent keeps three devices on the latest build of your working tree:
 
 - **An emulator in light mode** and **one in dark mode**, each in its own window, so you check both appearances at a glance.
 - **Your Android phone**, updated over Wi-Fi with wireless debugging, or over a cable.

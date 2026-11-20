@@ -3,7 +3,7 @@ name: android-live-preview
 description: Keep two Android emulators (one in light mode, one in dark) and the developer's Android phone on the latest build of the app, refreshed after every change, so they can look at the work at any moment. Use at the start of a session in an Android project and after every change you build, when the user wants to see the app on their emulators or phone, or asks to set up a live preview.
 ---
 
-# Android live preview
+# Claude Android preview
 
 The developer wants to see your work at any moment, in three places, always on the latest build:
 
